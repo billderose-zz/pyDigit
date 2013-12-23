@@ -1,0 +1,1 @@
+Submission for Digit Recognizer competition on kaggle.com. There are three classifiers fit in this script: a random forest, an extra-tree random forest, and a multi-class adaboost classifier.
